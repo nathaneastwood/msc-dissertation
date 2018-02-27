@@ -1,7 +1,3 @@
----
-output: html_document
----
-
 # Exploring predictors of impaired fasting glucose during adolescence - a longitudinal study
 
 This repository contains my MSc Statistics dissertation for Sheffield University; submitted August 2017. 
